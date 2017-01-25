@@ -15,6 +15,13 @@ Begin VB.Form Form1
       TabIndex        =   7
       Top             =   240
       Width           =   3855
+      Begin VB.Image Image1 
+         Height          =   7110
+         Left            =   0
+         Picture         =   "Login.frx":0000
+         Top             =   -120
+         Width           =   5790
+      End
    End
    Begin VB.Frame Frame1 
       Height          =   2535
